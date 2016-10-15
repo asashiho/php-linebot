@@ -6,6 +6,13 @@ LINE BOT APIと画像認識APIを使って
 CDアルバムのジャケット写真をLINEで送信すると
 CDアルバムの詳細情報（タイトル/アーティスト/リリース日/レーベル）が分かります。
 
+## Screenshots
+![top-page](https://raw.githubusercontent.com/wiki/asashiho/php-linebot/images/line.png)
+
+## Slide
+> https://docs.com/asashiho/7642/line-bot
+> 
+
 ### LINE BOT公式サイト
 > https://developers.line.me/bot-api/overview
 >
