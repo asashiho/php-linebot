@@ -7,7 +7,7 @@ CDアルバムのジャケット写真をLINEで送信すると
 CDアルバムの詳細情報（タイトル/アーティスト/リリース日/レーベル）が分かります。
 
 ## Screenshots
-![top-page](https://raw.githubusercontent.com/wiki/asashiho/php-linebot/images/line.png)
+<img src="https://raw.githubusercontent.com/wiki/asashiho/php-linebot/images/line.png" width="400px">
 
 ## Slide
 > https://docs.com/asashiho/7642/line-bot
